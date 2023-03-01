@@ -19,3 +19,5 @@ what your concrete contribution was to the assignment and how you applied
 which theoretical knowledge and academic skills.
 
 - A description of any other activities in which you participated and any results
+
+- Add line from my laptop Plus another one
